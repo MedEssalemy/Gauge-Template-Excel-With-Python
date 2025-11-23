@@ -2,6 +2,16 @@
 
 This repository contains Python scripts for creating professional gauge charts that integrate seamlessly with Microsoft Excel. These visualizations are perfect for dashboards, KPI tracking, and performance monitoring.
 
+## 🎥 Quick Start Video
+
+**New to this template? Watch the 1-minute demo:**
+
+[![Excel Gauge Charts Template - 1 Minute Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+*Click above to see both gauge types in action and learn the key features*
+
+---
+
 ## 📊 Available Gauge Types
 
 1. **Semicircular Progress Gauge** (`semicircular_gauge.py`) - Modern donut-style gauge with colored sections
@@ -30,6 +40,8 @@ Before using these gauge charts, ensure:
 Download both files from this repository:
 - The Python script (`.py` file)
 - The Excel template (`.xlsx` file)
+
+> 💡 **First time here?** Watch the [1-minute video tutorial](#-quick-start-video) above to see everything in action!
 
 ### Step 2: Open the Excel Template
 
@@ -249,11 +261,35 @@ These scripts are provided as-is for use in your Excel dashboards and reports.
 ## 🆘 Need Help?
 
 If you encounter issues:
-1. Verify all named ranges are correctly defined
-2. Check that your Excel version supports Python
-3. Ensure your data matches the expected format
-4. Review the configuration section in the script
+1. Watch the [video tutorial](#-quick-start-video) for a visual walkthrough
+2. Verify all named ranges are correctly defined
+3. Check that your Excel version supports Python
+4. Ensure your data matches the expected format
+5. Review the configuration section in the script
+
+**Still stuck?** Open an issue on GitHub with:
+- Your Excel version
+- Screenshots of your named ranges
+- The error message you're seeing
+
+---
+
+## 🌟 Show Your Support
+
+If you find these gauge templates helpful:
+- ⭐ Star this repository
+- 🔔 Subscribe to the [YouTube channel](https://youtu.be/NSaglFuvu_o) for more Excel tips
+- 🐛 Report issues or suggest features
+- 📢 Share with colleagues who might benefit
 
 ---
 
 **Happy Charting! 📊**
+
+---
+
+### 📺 More Resources
+
+- [Watch the Demo](https://www.youtube.com/watch?v=YOUR_VIDEO_ID) - 1-minute overview
+- [Excel Python Documentation](https://support.microsoft.com/en-us/office/get-started-with-python-in-excel-a33fbcbe-065b-41d3-82cf-23d05397f53d) - Official Microsoft guide
+- [Report an Issue](../../issues) - Found a bug? Let us know!
