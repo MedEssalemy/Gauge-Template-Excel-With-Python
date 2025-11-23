@@ -6,7 +6,7 @@ This repository contains Python scripts for creating professional gauge charts t
 
 **New to this template? Watch the 1-minute demo:**
 
-[![Excel Gauge Charts Template - 1 Minute Demo](https://img.youtube.com/vi/NSaglFuvu_o/hqdefault.jpg)](https://www.youtube.com/watch?v=NSaglFuvu_o)
+[![Excel Gauge Charts Template - 1 Minute Demo](https://img.youtube.com/vi/NSaglFuvu_o/maxresdefault.jpg)](https://www.youtube.com/watch?v=NSaglFuvu_o)
 
 *Click above to see both gauge types in action and learn the key features*
 
