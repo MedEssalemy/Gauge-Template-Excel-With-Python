@@ -290,6 +290,6 @@ If you find these gauge templates helpful:
 
 ### 📺 More Resources
 
-- [Watch the Demo](https://www.youtube.com/watch?v=YOUR_VIDEO_ID) - 1-minute overview
+- [Watch the Demo](https://www.youtube.com/watch?v=NSaglFuvu_o) - 1-minute overview
 - [Excel Python Documentation](https://support.microsoft.com/en-us/office/get-started-with-python-in-excel-a33fbcbe-065b-41d3-82cf-23d05397f53d) - Official Microsoft guide
 - [Report an Issue](../../issues) - Found a bug? Let us know!
